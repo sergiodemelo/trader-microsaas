@@ -1,5 +1,17 @@
-Status atual (MVP): Supabase ok + importador ok + app Next com login + dashboard + mini-cards + gráfico semanal.
+# Trader MicroSaaS
 
-Como rodar local (passo a passo).
+## Visão Geral
 
-Variáveis de ambiente (sem valores).
+## Stack
+
+## Estrutura do Projeto
+
+## Banco de Dados (Supabase)
+
+## Scripts CLI (tools/)
+
+## Frontend (web/)
+
+## Status Atual do MVP
+
+## Próximos Passos
